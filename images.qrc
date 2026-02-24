@@ -1,0 +1,50 @@
+<!DOCTYPE RCC>
+<RCC>
+  <qresource prefix="/daily">
+    <file>image/daily/1.png</file>
+    <file>image/daily/4.png</file>
+    <file>image/daily/2.png</file>
+    <file>image/daily/3.png</file>
+    <file>image/daily/6.png</file>
+    <file>image/daily/7.png</file>
+    <file>image/daily/5.png</file>
+    <file>image/daily/8.png</file>
+    <file>image/daily/9.png</file>
+    <file>image/daily/10.png</file>
+  </qresource>
+  <qresource prefix="/sleep">
+    <file>image/sleep/1.png</file>
+    <file>image/sleep/2.png</file>
+    <file>image/sleep/3.png</file>
+    <file>image/sleep/4.png</file>
+    <file>image/sleep/5.png</file>
+    <file>image/sleep/6.png</file>
+    <file>image/sleep/7.png</file>
+    <file>image/sleep/8.png</file>
+    <file>image/sleep/9.png</file>
+  </qresource>
+  <qresource prefix="/normal">
+    <file>image/normal/1.png</file>
+    <file>image/normal/2.png</file>
+    <file>image/normal/3.png</file>
+    <file>image/normal/4.png</file>
+    <file>image/normal/5.png</file>
+    <file>image/normal/6.png</file>
+    <file>image/normal/7.png</file>
+    <file>image/normal/8.png</file>
+    <file>image/normal/9.png</file>
+    <file>image/normal/10.png</file>
+  </qresource>
+  <qresource prefix="/happy">
+    <file>image/happy/1.png</file>
+    <file>image/happy/2.png</file>
+    <file>image/happy/3.png</file>
+    <file>image/happy/4.png</file>
+    <file>image/happy/5.png</file>
+    <file>image/happy/6.png</file>
+    <file>image/happy/7.png</file>
+    <file>image/happy/8.png</file>
+    <file>image/happy/9.png</file>
+    <file>image/happy/10.png</file>
+  </qresource>
+</RCC>
